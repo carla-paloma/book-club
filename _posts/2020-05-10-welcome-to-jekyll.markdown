@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "May Book Selection"
+date:   2020-05-10 20:07:48 +1200
+categories: May
+permalink: /posts/
+---
+
+### The Viking Spirit: An Introduction to Norse Mythology and Religion
+#### by Daniel McCoy
+
+
+Selected by Christoph from Germany 🇩🇪
+
+*Content wise: this book is extremely well written and you will know everything about Vikings after you finished.*
+
+#### Finish by June 15th
+---
+
+[The Viking Spirit 🔗 Gen lib free download](https://libgen.is/book/index.php?md5=47A9AC359DC8308BB7ED484F87652338)
+
+[The Viking Spirit 📚 GoodReads](https://www.goodreads.com/book/show/30359031-the-viking-spirit)
+
+
+
+
+<!-- {% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %} -->
+
+<!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ -->
