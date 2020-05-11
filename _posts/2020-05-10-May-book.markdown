@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "May Book Selection: The Viking Spirit..."
+title:  "May Book Selection"
 date:   2020-05-10 20:07:48 +1200
 categories: May
 permalink: /posts/
