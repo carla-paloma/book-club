@@ -46,7 +46,7 @@ Sure, so long we have less than 10 people and the gender ratio is balanced.
 
 ### On Choosing a Book
 
-From June 2020 onwards, we will use a 48 hours anonymous [open poll](https://www.poll-maker.com/) system to choose a book.
+From June 2020 onwards, we will use a 48 hours anonymous (https://www.poll-maker.com/) system to choose a book.
 You will be notifed once the decision is made.
 If your book is chosen, please provide a short reason why you choose a book.
 Please make sure there is a free EPUB version online or available to share.
