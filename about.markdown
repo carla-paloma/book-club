@@ -60,3 +60,4 @@ Once finished, think about three words that will describe the book of the month.
 If you could give a rating out of 5 to the book that would be great.
 
 **You can download almost eveything from [Genesis Library](http://gen.lib.rus.ec/).**
+**Maybe, use [Calibre](https://calibre-ebook.com/) to transfer books to your e-reader.**
