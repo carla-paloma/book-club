@@ -20,15 +20,15 @@ Everything is welcome.
 
 **I want to lead the next club session, is this okay?**
 
-Sure! Anyone in the book club can lead the group. Just express your interest prior ZOOM gathering.
+Sure! Anyone in the book club can lead the group. Just express your interest prior our jit.si gathering.
 
 **What are the minimum and maximum number of members?**
 
-The maximum amount of members is ten.
+The maximum amount of members is ten. 
 
-**When will your first meeting take place?**
+**When will the next meeting take place?**
 
-You have 4 weeks to read the book. After 4 weeks, you will receive details to a ZOOM gathering.
+You have 4 weeks to read the book. After 4 weeks, you will receive details to a jit.si gathering.
 Because of time zone differences, there will be two different ZOOM gatherings.
 Not all members will be able to hangout digitally at once.
 仕様がない / It can't be helped.
@@ -46,18 +46,24 @@ Sure, so long we have less than 10 people and the gender ratio is balanced.
 
 ### On Choosing a Book
 
-From June 2020 onwards, we will use a 48 hours anonymous [open poll](https://www.poll-maker.com/) system to choose a book.
-You will be notifed once the decision is made.
-If your book is chosen, please provide a short reason why you choose a book.
-Please make sure there is a free EPUB version online or available to share.
+Everyone is welcome to suggest a book. 
 
 ---
 
 ### Further Information
 
-Unless preferred, we only use a first name or user name for confidentiality reasons.
-Once finished, think about three words that will describe the book of the month.
-If you could give a rating out of 5 to the book that would be great.
+Bookclub members:
+
+Allister, the handyman/gardener/surfer from New Zealand.
+Carla, the artsy person/potter from Argentina - based in New Zealand. 
+Christoph, the tech company CEO/photographer from Germany.
+Ernie, the computer scientist/GP from Canada.
+Juliet, the art director/ballerina from Japan/UK - based in Japan.
+Maria, the coder/photographer from Russia/UK - based in Denmark.
+Pedro, the Spanish/French physiotherapist - based in Japan. 
+Robert, the Chilean/American entrepreneur/surfer/father - based in the Republic of Hawai'i. 
+Shnacita, the coder/professional rock climber from Mexico - based in NZ.
+Teddy, the statistician/illustrator from the UK - based in Denmark. 
 
 **You can download almost eveything from [Genesis Library](http://gen.lib.rus.ec/).**
 **Maybe, use [Calibre](https://calibre-ebook.com/) to transfer books to your e-reader.**
