@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "May Book Selection"
-date:   2020-06-16 20:07:48 +1200
+title:  "June Book Selection"
+date:   2020-06-16 19:07:48 +1200
 categories: June
-permalink: /posts
+permalink: /posts/2020-06-15
+
 ---
 
 ### Giving the Devil His Due: Reflections of a Scientific Humanist
