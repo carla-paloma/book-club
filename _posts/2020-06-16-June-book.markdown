@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "May Book Selection"
+date:   2020-06-16 20:07:48 +1200
+categories: June
+permalink: /posts
+---
+
+### Giving the Devil His Due: Reflections of a Scientific Humanist
+#### by Michael Shermer
+
+Selected by Robert, who is based in the republic of Hawaiʻi 🌺 
+
+*Content wise: relevant to these modern times*
+
+#### Finish by July 17th/18th 
+#### Online gathering, save it to your calendar. You can request a different date and time. Please email me.
+#### Same jit.si link as last time 
+
+Auckland, New Zealand    Sat, 18 Jul 2020 at 5:30 p.m. NZST    
+Honolulu, USA            Fri, 17 Jul 2020 at 7:30 p.m. HST     
+Vancouver, Canada        Fri, 17 Jul 2020 at 10:30 p.m. PDT    
+San Francisco, USA       Fri, 17 Jul 2020 at 10:30 p.m. PDT    
+Copenhagen, Denmark      Sat, 18 Jul 2020 at 7:30 a.m. CEST    
+Berlin, Germany          Sat, 18 Jul 2020 at 7:30 a.m. CEST    
+Kyoto, Japan             Sat, 18 Jul 2020 at 2:30 p.m. JST     
+Bangkok, Thailand        Sat, 18 Jul 2020 at 12:30 p.m. ICT    
+
+---
+
+[Giving the Devil His Due 🔗 Gen lib free download](http://gen.lib.rus.ec/book/index.php?md5=6487E5AB158AA67CA7768E82094E2B86)
+
+[Giving the Devil His Due 📚 GoodReads](https://www.goodreads.com/book/show/48989710-giving-the-devil-his-due)
+
+**Maybe, use [Calibre](https://calibre-ebook.com/) to transfer books to your e-reader.**
+
+
+
+<!-- {% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %} -->
+
+<!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ -->
