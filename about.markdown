@@ -55,14 +55,23 @@ Everyone is welcome to suggest a book.
 Bookclub members:
 
 Allister, the handyman/gardener/surfer from New Zealand.
+
 Carla, the artsy person/potter from Argentina - based in New Zealand. 
+
 Christoph, the tech company CEO/photographer from Germany.
+
 Ernie, the computer scientist/GP from Canada.
+
 Juliet, the art director/ballerina from Japan/UK - based in Japan.
+
 Maria, the coder/photographer from Russia/UK - based in Denmark.
+
 Pedro, the Spanish/French physiotherapist - based in Japan. 
+
 Robert, the Chilean/American entrepreneur/surfer/father - based in the Republic of Hawai'i. 
+
 Shnacita, the coder/professional rock climber from Mexico - based in NZ.
+
 Teddy, the statistician/illustrator from the UK - based in Denmark. 
 
 **You can download almost eveything from [Genesis Library](http://gen.lib.rus.ec/).**
