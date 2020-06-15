@@ -21,7 +21,7 @@
 title: Book Club
 # email: internet******@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
- 
+  4 weeks | 3 words | 1 book
 baseurl: "book-club" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
