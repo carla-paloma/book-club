@@ -20,12 +20,13 @@ TESSSST
 
 Honolulu, USA            Sat, Aug 29, 2020 at 7:00 pm HST     
 San Francisco, USA       Sat, Aug 29, 2020 at 10:00 pm PDT    
-Vancouver, Canada        Sat, Aug 29, 2020 at 10:00 pm PDT 
+Vancouver, Canada        Sat, Aug 29, 2020 at 10:00 pm PDT    
 Kyoto, Japan             Sun, Aug 30, 2020 at 2:00 pm JST     
 Melbourne, Australia     Sun, Aug 30, 2020 at 3:00 pm AEST    
 Berlin, Germany          Sun, Aug 30, 2020 at 7:00 am CEST    
 Copenhagen, Denmark      Sun, Aug 30, 2020 at 7:00 am CEST    
 Auckland, New Zealand    Sun, Aug 30, 2020 at 5:00 pm NZST    
+ 
   
 ---
 #### A little extra time
@@ -40,6 +41,7 @@ Auckland, New Zealand    Sun, Aug 30, 2020 at 5:00 pm NZST
 33 days
 4 weeks and 5 days
 9.02% of 2020
+
 
 ---
 

@@ -24,22 +24,21 @@ Sure! Anyone in the book club can lead the group. Just express your interest pri
 
 **What are the minimum and maximum number of members?**
 
-The maximum amount of members is ten. 
+The maximum amount of members is ten. We have a couple of new members as for July 2020. 
 
 **When will the next meeting take place?**
 
-You have 4 weeks to read the book. After 4 weeks, you will receive details to a jit.si gathering.
-Because of time zone differences, there will be two different ZOOM gatherings.
-Not all members will be able to hangout digitally at once.
-仕様がない / It can't be helped.
+You have 4 weeks approx. to read the book. After 4 weeks, you will receive details to a jit.si gathering.
+Because of time zone differences, there will be two different jit.si  gatherings.
+Naturally, some members will not show up. No stress. 
 
 **I have previously read the book of the month; what should I do?**
 
-It's up to you. You could re-read it or wait for the following month's book choice.
+It's up to you. You could re-read it or wait for the following month's book choice. Feel free to join the video call, share whatever you remember.
 
 **Can I invite my friends to join?**
 
-Sure, so long we have less than 10 people and the gender ratio is balanced.
+Sure, so long we have less than 10 people and the gender ratio is balanced (in theory).
 
 
 ---
