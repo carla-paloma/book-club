@@ -26,7 +26,8 @@ Melbourne, Australia     Sun, Aug 30, 2020 at 3:00 pm AEST
 Berlin, Germany          Sun, Aug 30, 2020 at 7:00 am CEST    
 Copenhagen, Denmark      Sun, Aug 30, 2020 at 7:00 am CEST    
 Auckland, New Zealand    Sun, Aug 30, 2020 at 5:00 pm NZST    
- 
+
+
 ---
 #### A little extra time
 
@@ -35,7 +36,8 @@ Auckland, New Zealand    Sun, Aug 30, 2020 at 5:00 pm NZST
 33 days can be converted to one of these units:
 
 2,851,200 seconds
-47,520 minutes
+47,520 minute
+
 792 hours
 33 days
 4 weeks and 5 days
