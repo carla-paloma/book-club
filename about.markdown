@@ -61,8 +61,6 @@ Christoph, the tech company CEO/photographer from Germany.
 
 Ernie, the computer scientist/GP from Canada.
 
-Jeff, the international trader from the USA. 
-
 Juliet, the art director/ballerina from Japan/UK - based in Japan.
 
 Maria, the coder/photographer from Russia/UK - based in Denmark.
