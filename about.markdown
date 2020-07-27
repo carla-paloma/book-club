@@ -45,7 +45,7 @@ Sure, so long we have less than 10 people and the gender ratio is balanced (in t
 
 ### On Choosing a Book
 
-Everyone is welcome to suggest a book. 
+Everyone is welcome to suggest a book. You can do it during the video call.
 
 ---
 
