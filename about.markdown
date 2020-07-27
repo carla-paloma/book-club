@@ -63,6 +63,8 @@ Ernie, the computer scientist/GP from Canada.
 
 Juliet, the art director/ballerina from Japan/UK - based in Japan.
 
+Jeff, international trader from the USA. 
+
 Maria, the coder/photographer from Russia/UK - based in Denmark.
 
 Pedro, the Spanish/French physiotherapist - based in Japan. 
