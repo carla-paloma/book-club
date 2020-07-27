@@ -28,12 +28,10 @@ Copenhagen, Denmark      Sun, Aug 30, 2020 at 7:00 am CEST
 Auckland, New Zealand    Sun, Aug 30, 2020 at 5:00 pm NZST    
   
 ---
+#### A little extra time
 
-It is 33 days from the start date to the end date, but not including the end date.
+1 month, 2 days excluding the end date.
 
-Or 1 month, 2 days excluding the end date.
-
-Alternative time units
 33 days can be converted to one of these units:
 
 2,851,200 seconds
