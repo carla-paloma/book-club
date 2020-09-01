@@ -12,25 +12,19 @@ permalink: /about/
 
 **What type of people will make up the club?**
 
-Light and hardcore geeks who seldom get bored because they find most topics fascinating or exciting.
+100% humans.
 
 **What types of books will your club primarily read? Fiction? Non-fiction?**
 
 Everything is welcome.
 
-**I want to lead the next club session, is this okay?**
+**What is the maximum number of members?**
 
-Sure! Anyone in the book club can lead the group. Just express your interest prior our jit.si gathering.
-
-**What are the minimum and maximum number of members?**
-
-The maximum amount of members is ten. We have a couple of new members as for July 2020. 
+The maximum amount of members is ten. We need female members as for September 2020.
 
 **When will the next meeting take place?**
 
-You have 4 weeks approx. to read the book. After 4 weeks, you will receive details to a jit.si gathering.
-Because of time zone differences, there will be two different jit.si  gatherings.
-Naturally, some members will not show up. No stress. 
+You have about 4 weeks to read the book. 
 
 **I have previously read the book of the month; what should I do?**
 
@@ -38,8 +32,7 @@ It's up to you. You could re-read it or wait for the following month's book choi
 
 **Can I invite my friends to join?**
 
-Sure, so long we have less than 10 people and the gender ratio is balanced (in theory).
-
+Sure, so long we have less than 6 active members.  We need more females. 
 
 ---
 
@@ -63,11 +56,7 @@ Ernie, the computer scientist/GP from Canada.
 
 Juliet, the art director/ballerina from Japan/UK - based in Japan.
 
-Jeff, international trader from the USA. 
-
 Maria, the coder/photographer from Russia/UK - based in Denmark.
-
-Pedro, the Spanish/French physiotherapist - based in Japan. 
 
 Ricky, Kiwi music engineer - based in Australia.
 
