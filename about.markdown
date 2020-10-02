@@ -20,7 +20,7 @@ Everything is welcome.
 
 **What is the maximum number of members?**
 
-The maximum amount of members is ten. We need female members as for September 2020.
+The maximum amount of members is ten. 
 
 **When will the next meeting take place?**
 
@@ -46,25 +46,25 @@ Everyone is welcome to suggest a book. You can do it during the video call.
 
 Bookclub members:
 
-Allister, the handyman/gardener/surfer from New Zealand.
+Allister, handyman/gardener/surfer from New Zealand.
 
-Carla, the artsy person/potter from Argentina - based in New Zealand. 
+Carla, artsy person/potter from Argentina - based in New Zealand. 
 
-Christoph, the tech company CEO/photographer from Germany.
+Christoph, tech company CEO/photographer from Germany.
 
-Ernie, the computer scientist/GP from Canada.
+Ernie, computer scientist/GP from Canada.
 
-Juliet, the art director/ballerina from Japan/UK - based in Japan.
+Juliet, art director/ballerina from Japan/UK - based in Japan.
 
-Maria, the coder/photographer from Russia/UK - based in Denmark.
+Maria, coder/photographer from Russia/UK - based in Denmark.
 
 Ricky, Kiwi music engineer - based in Australia.
 
-Robert, the Chilean/American entrepreneur/surfer/father - based in the Republic of Hawai'i. 
+Robert, Chilean/American entrepreneur/surfer/father - based in the Republic of Hawai'i. 
 
-Shnacita, the coder/professional rock climber from Mexico - based in NZ.
+Shnacita, coder/professional rock climber from Mexico - based in NZ.
 
-Teddy, the statistician/illustrator from the UK - based in Denmark. 
+Teddy, statistician/illustrator from the UK - based in Denmark. 
 
 **You can download almost eveything from [Genesis Library](http://gen.lib.rus.ec/).**
 **Maybe, use [Calibre](https://calibre-ebook.com/) to transfer books to your e-reader.**
