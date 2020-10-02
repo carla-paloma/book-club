@@ -46,25 +46,27 @@ Everyone is welcome to suggest a book. You can do it during the video call.
 
 Bookclub members:
 
-Allister, handyman/gardener/surfer from New Zealand.
+Allister, handyman/gardener/surfer based in New Zealand.
 
-Carla, artsy person/potter from Argentina - based in New Zealand. 
+Carla, artsy person/potter - based California. 
 
-Christoph, tech company CEO/photographer from Germany.
+Christoph, tech company CEO/photographer based in Germany.
 
-Ernie, computer scientist/GP from Canada.
+Ernie, computer scientist/GP based in Canada.
 
-Juliet, art director/ballerina from Japan/UK - based in Japan.
+Juliet, art director/ballerina based in Japan.
 
-Maria, coder/photographer from Russia/UK - based in Denmark.
+Maria, coder/photographer based in Denmark.
 
-Ricky, Kiwi music engineer - based in Australia.
+Ricky, music engineer based in Australia.
 
-Robert, Chilean/American entrepreneur/surfer/father - based in the Republic of Hawai'i. 
+Robert, entrepreneur/surfer/father - based in the Republic of Hawai'i. 
 
-Shnacita, coder/professional rock climber from Mexico - based in NZ.
+Shnacita, coder/professional rock climber based in New Zealand.
 
-Teddy, statistician/illustrator from the UK - based in Denmark. 
+Teddy, statistician/illustrator based in Denmark. 
+
+Valerie, book author (www.valerieluu.com). 
 
 **You can download almost eveything from [Genesis Library](http://gen.lib.rus.ec/).**
 **Maybe, use [Calibre](https://calibre-ebook.com/) to transfer books to your e-reader.**
