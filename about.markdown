@@ -18,13 +18,13 @@ permalink: /about/
 
 Everything is welcome.
 
-**What is the maximum number of members?**
-
-The maximum amount of members is ten. 
-
 **When will the next meeting take place?**
 
 You have about 4 weeks to read the book. 
+
+**Oh no! I have not finished the book, can I still join the hangout?**
+
+Yes! don't worry about it.
 
 **I have previously read the book of the month; what should I do?**
 
@@ -32,7 +32,7 @@ It's up to you. You could re-read it or wait for the following month's book choi
 
 **Can I invite my friends to join?**
 
-Sure, so long we have less than 6 active members.  We need more females. 
+Yes, please. 
 
 ---
 
