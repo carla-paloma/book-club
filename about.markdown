@@ -10,10 +10,6 @@ permalink: /about/
 
 ## FAQs
 
-**What type of people will make up the club?**
-
-100% humans.
-
 **What types of books will your club primarily read? Fiction? Non-fiction?**
 
 Everything is welcome.

@@ -4,8 +4,6 @@ title: Members
 permalink: /members/
 ---
 
-### Bookclub members
-
 
 Allister, handyman/gardener/surfer based in New Zealand.
 
