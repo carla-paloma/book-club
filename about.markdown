@@ -49,15 +49,7 @@ Ernie, computer scientist/GP based in Canada.
 
 Juliet, art director/ballerina based in Japan.
 
-Maria, coder/photographer based in Denmark.
-
-Ricky, music engineer based in Australia.
-
 Robert, entrepreneur/surfer/father - based in the Republic of Hawai'i. 
-
-Shnacita, coder/professional rock climber based in New Zealand.
-
-Teddy, statistician/illustrator based in Denmark. 
 
 [Valerie](http://www.valerieluu.com), book  and restaurant owner based in San Francisco . 
 
