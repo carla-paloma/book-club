@@ -59,7 +59,7 @@ Shnacita, coder/professional rock climber based in New Zealand.
 
 Teddy, statistician/illustrator based in Denmark. 
 
-[Valerie](www.valerieluu.com), book  and restaurant owner based in San Francisco . 
+[Valerie](http://www.valerieluu.com), book  and restaurant owner based in San Francisco . 
 
 **You can download almost eveything from [Genesis Library](http://gen.lib.rus.ec/).**
 **Maybe, use [Calibre](https://calibre-ebook.com/) to transfer books to your e-reader.**
