@@ -28,7 +28,7 @@ url: "https://carla-paloma.github.io/book-club/" # the base hostname & protocol 
 
 # Build settings
 theme: minima
- skin: dark
+ skin: solarized-dark
 plugins:
   - jekyll-feed
 
@@ -41,7 +41,7 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 # exclude:
-#   - .sass-cache/
+#   
 #   - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
