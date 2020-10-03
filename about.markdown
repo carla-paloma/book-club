@@ -34,13 +34,6 @@ It's up to you. You could re-read it or wait for the following month's book choi
 
 Yes, please. 
 
----
-
-### On Choosing a Book
-
-Everyone is welcome to suggest a book. You can do it during the video call.
-
----
 
 ### Further Information
 
@@ -66,7 +59,7 @@ Shnacita, coder/professional rock climber based in New Zealand.
 
 Teddy, statistician/illustrator based in Denmark. 
 
-Valerie, book author (www.valerieluu.com). 
+[Valerie](www.valerieluu.com), book  and restaurant owner based in San Francisco . 
 
 **You can download almost eveything from [Genesis Library](http://gen.lib.rus.ec/).**
 **Maybe, use [Calibre](https://calibre-ebook.com/) to transfer books to your e-reader.**
