@@ -28,7 +28,6 @@ url: "https://carla-paloma.github.io/book-club/" # the base hostname & protocol 
 
 # Build settings
 theme: minima
-
 plugins:
   - jekyll-feed
 
