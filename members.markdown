@@ -5,20 +5,20 @@ permalink: /members/
 ---
 
 
-Allister, handyman/gardener/surfer | New Zealand. Pet: a small dog.
+Allister, handyman/gardener/surfer. Location: New Zealand. Pet: a small dog.
 
-Carla, artsy person/potter | California. Pet: a fat cat.
+Carla, artsy person/potter. Location: California. Pet: a fat cat.
 
-Christoph, tech company CEO/photographer | Germany.
+Christoph, tech company CEO/photographer. Location: Germany.
 
-Ernie, computer scientist/GP/photographer | Canada. Pets: fishes. Used to have a small dog.
+Ernie, computer scientist/GP/photographer. Location: Canada. Pets: fishes. Used to have a small dog.
 
-Juliet, art director/ballerina | Japan. 
+Juliet, art director/ballerina. Location:Japan. 
 
-Maria and Teddy, coder and statistician respectively | Copenhagen. Pets: two rats.
+Maria and Teddy, coder and statistician respectively. Location:Copenhagen. Pets: two rats.
 
-Robert, entrepreneur/surfer/father | Republic of Hawai'i. 
+Robert, entrepreneur/surfer/father. Location: Republic of Hawai'i. 
 
-[Valerie](http://www.valerieluu.com), book  and restaurant owner | San Francisco. 
+[Valerie](http://www.valerieluu.com), book  and restaurant owner. Location: San Francisco. 
 
-[KT](https://www.kristintexeira.com/), painter and pottery artist | upstate NY. 
+[KT](https://www.kristintexeira.com/), painter and pottery artist. Location: upstate NY. 
