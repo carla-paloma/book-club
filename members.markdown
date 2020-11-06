@@ -15,7 +15,7 @@ Ernie, computer scientist/GP/photographer. Location: Canada. Pets: fishes 🐟�
 
 Juliet, art director/ballerina. Location: Japan. 
 
-[KT](https://www.kristintexeira.com/), painter and pottery artist. Location: Upstate NY. 
+[KT](https://www.kristintexeira.com/), painter who likes making pots. Location: Upstate NY. 
 
 Maria and Teddy, coder and statistician respectively. Location:Copenhagen. Pets: two rats. 🐀🐀
 
