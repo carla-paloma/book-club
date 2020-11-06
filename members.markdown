@@ -11,7 +11,7 @@ Carla, artsy person/potter. Location: California. Pet: a fat cat. 🐈
 
 Christoph, tech company CEO/photographer. Location: Germany.
 
-Ernie, computer scientist/GP/photographer. Location: Canada. Pets: fishes 🐟🐟🐟. Used to have a small dog.
+Ernie, computer scientist/GP/photographer. Location: Canada. Pets: fishes 🐟🐟🐟.
 
 Juliet, art director/ballerina. Location: Japan. 
 
