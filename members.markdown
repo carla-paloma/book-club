@@ -7,7 +7,7 @@ permalink: /members/
 
 Allister, handyman/gardener/surfer. Location: New Zealand. Pet: a small dog. 🐕
 
-Carla, artsy person/potter. Location: California. Pet: a fat cat. 🐈
+Carla, likes coding and making pots. Location: California. Pet: a fat cat. 🐈
 
 Christoph, tech company CEO/photographer. Location: Germany.
 
