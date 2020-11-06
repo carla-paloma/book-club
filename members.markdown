@@ -21,5 +21,5 @@ Maria and Teddy, coder and statistician respectively. Location:Copenhagen. Pets:
 
 Robert, entrepreneur/surfer/father. Location: Republic of Hawai'i. 
 
-[Valerie](http://www.valerieluu.com), book  and restaurant owner. Location: San Francisco. 
+[Valerie](http://www.valerieluu.com), co-author of Chinatown Pretty, owns a Vietnamese restaurant. Location: San Francisco. 
 
