@@ -1,3 +1,3 @@
 # book-club is a simple static site created with Jekyll.
 
-https://-paloma.github.io/book-club/
+https://carla-paloma.github.io/book-club/
