@@ -16,13 +16,13 @@ This book has been suggested by Christoph and [chosen by everyone](https://www.p
 
 ####  🌐 Global time zones 🌐
 
-Honolulu, USA            Sat, Dec 19, 2020 at 12:00 noon HST
-San Francisco, USA       Sat, Dec 19, 2020 at 2:00 pm PST
-Vancouver, Canada        Sat, Dec 19, 2020 at 2:00 pm PST
-Berlin, Germany          Sat, Dec 19, 2020 at 11:00 pm CET
-New York, USA            Sat, Dec 19, 2020 at 5:00 pm EST
-Kyoto, Japan             Sun, Dec 20, 2020 at 7:00 am JST
-Auckland, New Zealand    Sun, Dec 20, 2020 at 11:00 am NZDT
+Honolulu, USA            Sat, Dec 19, 2020 at 12:00 noon HST  <br />
+San Francisco, USA       Sat, Dec 19, 2020 at 2:00 pm PST  <br />
+Vancouver, Canada        Sat, Dec 19, 2020 at 2:00 pm PST  <br />
+Berlin, Germany          Sat, Dec 19, 2020 at 11:00 pm CET  <br />
+New York, USA            Sat, Dec 19, 2020 at 5:00 pm EST  <br />
+Kyoto, Japan             Sun, Dec 20, 2020 at 7:00 am JST  <br />
+Auckland, New Zealand    Sun, Dec 20, 2020 at 11:00 am NZDT  <br />
 
 
 On the day of the meeting, will use the following link:
