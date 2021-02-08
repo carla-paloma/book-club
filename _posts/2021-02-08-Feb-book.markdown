@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Feb Book Selection 🦝"
+title:  "February Book Selection 🔖"
 date:   2021-02-09 13:07:48 +1200
 categories: February
 permalink: /posts/2021-02-08
