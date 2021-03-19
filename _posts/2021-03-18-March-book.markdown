@@ -18,7 +18,7 @@ This book has been suggested by Carla and [chosen by everyone](https://www.surve
 
 ####  🌐 Luma meetup link 🌐
 
-[Luma Meet up Link](https://lu.ma/book_club_April_2021)
+[Luma Meetup Link HERE](https://lu.ma/book_club_April_2021)
 
 
 ---
